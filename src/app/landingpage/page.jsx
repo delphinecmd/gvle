@@ -3,7 +3,7 @@
 
 import React, { useState, useRef } from 'react';
 import { useRouter } from 'next/navigation'; // replacing react-router-dom
-import './LandingPage.css';
+import './Page.css';
 import { useTheme } from '@/components/ThemeProvider';
 import { LuContrast } from 'react-icons/lu';
 
